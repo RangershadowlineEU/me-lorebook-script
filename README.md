@@ -17,10 +17,6 @@ Generated and refined primarily using **Google Gemini Pro**.
 
 ---
 
-> "The most powerful script isn’t the most complex—it’s the one that makes the world feel alive."
-
 **Status:** Operational
 
-**Lore Period:** 2183 – 2186 CE
-
-**System:** Online
+**Lore Period:** 500 CE – 2186 CE
